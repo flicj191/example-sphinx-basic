@@ -59,11 +59,11 @@ html_theme = 'pydata_sphinx_theme' #"sphinx_rtd_theme"
 html_theme_options = {
     "navigation_with_keys": False,
     "logo": {
-        "image_light": "figures/logo-2.png",
+        "image_light": "logo-2.png",
         "image_dark": "figures/logo-2-dark.png",
     },
 }
-html_logo = 'figures/logo-2.png'
+html_logo = 'logo-2.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
