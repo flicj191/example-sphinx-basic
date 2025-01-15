@@ -60,7 +60,7 @@ html_theme_options = {
     "navigation_with_keys": False,
     "logo": {
         "image_light": "logo-2.png",
-        "image_dark": "figures/logo-2-dark.png",
+        # "image_dark": "figures/logo-2-dark.png",
     },
 }
 html_logo = 'logo-2.png'
@@ -68,5 +68,5 @@ html_logo = 'logo-2.png'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ["_static"]
-html_static_path: list = ["figures/logo-2-dark.png"]
+html_static_path = ["_static"]
+# html_static_path: list = ["figures/logo-2-dark.png"]
