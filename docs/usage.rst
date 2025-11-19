@@ -39,6 +39,6 @@ So let's cook, everything is a recipe and cookbok based analogy. Generally eever
 People must always have food on their minds. 
 See `this example`_ for more details.
 
-.. _this example:https://mykitchen101en.com/pandan-rice-cooker-sponge-cake/
+.. _this example: https://mykitchen101en.com/pandan-rice-cooker-sponge-cake/
 
 Or Here is `a link <http://www.examplenot.com>`_ to somewhere.
